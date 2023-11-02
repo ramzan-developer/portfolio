@@ -1,0 +1,103 @@
+body {
+    margin: 0px;
+}
+.header {
+    background-color: rgb(175, 255, 228);
+    height: 690px;
+
+.htmli {
+    display: flex;
+    justify-content: end;
+   padding-top: 100px;
+    margin-right: 210px;
+}
+    
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}    
+   .pp {
+    text-decoration: underline;
+  text-decoration-color: blue;
+   }
+}
+.ramzan {
+    font-family: Pacifico;
+    font-size: 50px;
+    }
+.programmer {
+font-family: 'IBM Plex Mono', monospace;
+font-size: 30px;
+}
+
+.htmlc {
+    display: flex;
+    justify-content: start;
+    margin-left: 210px;
+}
+.coder {
+    display: flex;
+    justify-content: center;
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.pic {
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+.skill {
+    margin-bottom: 30px;
+}
+.bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ht {
+    float: left;
+
+}
+.cs {
+    float: left;
+}
+
+.hhh {
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.bottom-container {
+    background-color:  rgb(175, 255, 228);
+    display: block;
+    justify-content: center;
+    gap: 10px;
+    height: 150px;
+    width: 100%;
+    margin-top: 20px;
+    
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 0%;
+}
+
+.bbb {
+    justify-content: center;
+    text-align: center;
+}
